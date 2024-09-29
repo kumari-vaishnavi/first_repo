@@ -1,4 +1,26 @@
+#write a program to add two numbers:
+def addition(a,b):
+ add=a+b
+ return add
+print(addition(7,8))
 
+#write a program to subtract two numbers:
+def subtraction(x,y):
+ subtract=x-y
+ return subtract
+print(subtraction(19,7))
+
+#write a program to multiple two numbers:
+def multiply(k,l):
+ multiply=k*l
+ return multiply
+print(multiply(5,5))
+
+#write a program to divide two numbers:
+def divide(v,V):
+ divide=v/V
+ return divide
+print(divide(20,10))
 
 #write a program to add 3 numbers:
 def adding_3_numbers(a,b,c):
