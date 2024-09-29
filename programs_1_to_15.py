@@ -1,26 +1,26 @@
 #write a program to add two numbers:
-def adding_numbers(a,b):
+def addition(a,b):
  add=a+b
  return add
-print(adding_numbers(7,8))
+print(addition(7,8))
 
 #write a program to subtract two numbers:
-def subtracting_numbers(x,y):
+def subtraction(x,y):
  subtract=x-y
  return subtract
-print(subtracting_numbers(19,7))
+print(subtraction(19,7))
 
 #write a program to multiple two numbers:
-def multiply_numbers(k,l):
+def multiply(k,l):
  multiply=k*l
  return multiply
-print(multiply_numbers(5,5))
+print(multiply(5,5))
 
 #write a program to divide two numbers:
-def dividing_numbers(v,V):
+def divide(v,V):
  divide=v/V
  return divide
-print(dividing_numbers(20,10))
+print(divide(20,10))
 
 #write a program to add 3 numbers:
 def adding_3_numbers(a,b,c):
